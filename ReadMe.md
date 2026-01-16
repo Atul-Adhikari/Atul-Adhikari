@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Expanding my knowledge and skills in software development, focusing on building projects that improve my expertise in full-stack development.<br>👯 I’m looking to collaborate on: Web development projects that involve creating user-friendly interfaces, as well as projects that require quality assurance to ensure high standards.<br>🤝 I’m looking for help with: Enhancing my skills in advanced JavaScript frameworks and exploring best practices in automated testing.<br>🌱 I’m currently learning: Full-stack development concepts, with a focus on improving my skills in React, Node.js, and modern testing frameworks.<br>💬 Ask me about: My journey as a Computer Science student and how I'm balancing college with developing my skills in web development.<br>⚡ Fun fact: I have a knack for learning new technologies quickly and enjoy solving challenging bugs in my code!
+🔭 I’m currently working on: Expanding my knowledge and skills in software development, focusing on building projects that improve my expertise in Artificial Intelligence.<br>👯 I’m looking to collaborate on: Artificial Intelligence projects, Web development projects that involve creating user-friendly interfaces, as well as projects that require quality assurance to ensure high standards.<br>🤝 I’m looking for help with: Enhancing my skills in advanced machine learning frameworks and exploring best practices in automated testing.<br>🌱 I’m currently learning: Deep Learning, Full-stack development concepts, with a focus on improving my skills in Python, React, Node.js, and modern testing frameworks.<br>💬 Ask me about: My journey as a Computer Science student and how I'm balancing college with developing my skills in Artificial Intelligence and web development.<br>⚡ Fun fact: I have a knack for learning new technologies quickly and enjoy solving challenging bugs in my code!
 
 
 ## 🌐 Socials:
@@ -23,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Atul-Adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
